@@ -22,4 +22,15 @@ Here are some ideas to get you started:
 
 [![CoderUtk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CoderUtk)](https://github.com/CoderUtk/github-readme-stats)
 
+[![LinkedIn](https://github-readme-stats.vercel.app/api/experience?username=utkarsh08)](https://github.com/CoderUtk/github-readme-stats)
+
+https://github-readme-linkedin-livid.vercel.app/experience?username=utkarsh08
+
+[![Github gists](https://gist-count.vercel.app/api?username=CoderUtk)](https://gist.github.com/CoderUtk)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CoderUtk)](https://git.io/streak-stats)
+
+![Utkarsh Agrawal card name](https://cardivo.vercel.app/api?name=Utkarsh%20%20Agrawal&description=Summary&github=CoderUtk&linkedin=linkedin.com/in/utkarsh08/&image=https://avatars.githubusercontent.com/u/33148052?&backgroundColor=%23ecf0f1)
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=footer&text=Now%20Use%20me!&fontSize=40)
 
