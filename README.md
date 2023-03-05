@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: utkarshg08@gmail.com | <a href="https://www.linkedin.com/in/utkarsh08/">linkedin.com/in/utkarsh08</a>
 
 - ⚡ Fun fact: My most rookie level code is freezing in the Github Arctic Code Vault.
+
+
+[![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderUtk&show_icons=true&theme=transparent)]https://github-readme-stats.vercel.app/api?username=CoderUtk&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderUtk&hide_progress=true)](https://github.com/CoderUtk/github-readme-stats)
+
+[![CoderUtk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CoderUtk)](https://github.com/CoderUtk/github-readme-stats)
+
+
