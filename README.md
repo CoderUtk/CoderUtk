@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: My most rookie level code is freezing in the Github Arctic Code Vault.
 
 
-[![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderUtk&show_icons=true&theme=transparent)]https://github-readme-stats.vercel.app/api?username=CoderUtk&show_icons=true&theme=transparent)
+[![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderUtk&show_icons=true&theme=transparent)](https://github.com/CoderUtk/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderUtk)](https://github.com/CoderUtk/github-readme-stats)
 
