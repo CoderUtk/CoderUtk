@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderUtk&show_icons=true&theme=transparent)]https://github-readme-stats.vercel.app/api?username=CoderUtk&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderUtk&hide_progress=true)](https://github.com/CoderUtk/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderUtk)](https://github.com/CoderUtk/github-readme-stats)
 
 [![CoderUtk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CoderUtk)](https://github.com/CoderUtk/github-readme-stats)
 
