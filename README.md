@@ -3,10 +3,13 @@
 <!--
 **CoderUtk/CoderUtk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 😄 Pronouns: ...
 -->
+![Utkarsh Agrawal card name](https://cardivo.vercel.app/api?name=Utkarsh%20%20Agrawal&description=Summary&github=CoderUtk&linkedin=linkedin.com/in/utkarsh08/&image=https://avatars.githubusercontent.com/u/22571171?&backgroundColor=%23ecf0f1)
+
 - 🌱 Software Engineer, Adenza
 - 🌱 I’m currently learning SpringBoot, Kubernetes
 - 👯 I’m looking to collaborate on any Java related projects I could be a part of.
@@ -30,7 +33,7 @@ https://github-readme-linkedin-livid.vercel.app/experience?username=utkarsh08
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=CoderUtk)](https://git.io/streak-stats)
 
-![Utkarsh Agrawal card name](https://cardivo.vercel.app/api?name=Utkarsh%20%20Agrawal&description=Summary&github=CoderUtk&linkedin=linkedin.com/in/utkarsh08/&image=https://avatars.githubusercontent.com/u/33148052?&backgroundColor=%23ecf0f1)
+
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=footer&text=Now%20Use%20me!&fontSize=40)
 
