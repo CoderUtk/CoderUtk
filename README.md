@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 | [![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderUtk&show_icons=true&theme=default)](https://github.com/CoderUtk/github-readme-stats) 	| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderUtk&layout=compact&exclude_repo=coderutk.github.io)](https://github.com/CoderUtk/github-readme-stats) 	|
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| [![CoderUtk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=coderutk)](https://github.com/CoderUtk/github-readme-stats)                       	| [![GitHub Streak](https://streak-stats.demolab.com/?user=CoderUtk)](https://git.io/streak-stats) |
+
 
 <!--START_SECTION:waka-->
 
@@ -45,8 +45,3 @@ XML              59 mins         -------------------------   00.51 %
 ```
 
 <!--END_SECTION:waka--> 
-
-<img
-  src="https://github.com/CoderUtk/CoderUtk/blob/main/images/stat.svg"
-  alt="CoderUtk WakaTime Activity"
-/>
