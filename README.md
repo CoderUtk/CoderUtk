@@ -25,6 +25,25 @@ Here are some ideas to get you started:
 | [![CoderUtk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=coderutk)](https://github.com/CoderUtk/github-readme-stats)                       	| [![GitHub Streak](https://streak-stats.demolab.com/?user=CoderUtk)](https://git.io/streak-stats) |
 
 <!--START_SECTION:waka-->
+
+```text
+From: 18 September 2022 - To: 09 March 2023
+
+Total Time: 194 hrs 29 mins
+
+Java             144 hrs 36 mins >>>>>>>>>>>>>>>>>>>------   74.35 %
+Properties       14 hrs 19 mins  >>-----------------------   07.36 %
+Groovy           12 hrs 4 mins   >>-----------------------   06.21 %
+Gradle           6 hrs 44 mins   >------------------------   03.46 %
+Markdown         4 hrs 53 mins   >------------------------   02.51 %
+textmate         2 hrs 33 mins   -------------------------   01.31 %
+Text             2 hrs           -------------------------   01.03 %
+Gherkin          1 hr 11 mins    -------------------------   00.62 %
+Bash             1 hr 11 mins    -------------------------   00.61 %
+CSV              1 hr 9 mins     -------------------------   00.59 %
+XML              59 mins         -------------------------   00.51 %
+```
+
 <!--END_SECTION:waka--> 
 
 <img
