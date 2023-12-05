@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 September 2022 - To: 04 December 2023
+From: 18 September 2022 - To: 05 December 2023
 
-Total Time: 470 hrs 9 mins
+Total Time: 470 hrs 18 mins
 
-Java              356 hrs 33 mins >>>>>>>>>>>>>>>>>>>------   75.84 %
-Groovy            30 hrs 28 mins  >>-----------------------   06.48 %
+Java              356 hrs 40 mins >>>>>>>>>>>>>>>>>>>------   75.84 %
+Groovy            30 hrs 29 mins  >>-----------------------   06.48 %
 Properties        27 hrs 4 mins   >------------------------   05.76 %
 Gradle            22 hrs 54 mins  >------------------------   04.87 %
 Markdown          5 hrs 11 mins   -------------------------   01.10 %
