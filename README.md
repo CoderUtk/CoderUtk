@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 😄 Pronouns: ...
 -->
-![Utkarsh Agrawal card name](https://cardivo.vercel.app/api?name=Utkarsh%20%20Agrawal&description=%20%F0%9F%8C%B1%20Software%20Engineer%2C%20Adenza&github=CoderUtk&linkedin=linkedin.com/in/utkarsh08/&image=https://avatars.githubusercontent.com/u/22571171?&backgroundColor=%23ecf0f1)
+![Utkarsh Agrawal card name](https://cardivo.vercel.app/api?name=Utkarsh%20%20Agrawal&description=%20%F0%9F%8C%B1%20Software%20Engineer%2C%20Nasdaq&github=CoderUtk&linkedin=linkedin.com/in/utkarsh08/&image=https://avatars.githubusercontent.com/u/22571171?&backgroundColor=%23ecf0f1)
 ---
 
 - Hello there 👋, I write code and engineer software.
