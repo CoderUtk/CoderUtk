@@ -29,18 +29,18 @@ Here are some ideas to get you started:
 ```txt
 From: 18 September 2022 - To: 31 December 2024
 
-Total Time: 652 hrs 26 mins
+Total Time: 664 hrs 11 mins
 
-Java              497 hrs 30 mins >>>>>>>>>>>>>>>>>>>------   76.25 %
-Groovy            42 hrs 15 mins  >>-----------------------   06.48 %
-Gradle            30 hrs 59 mins  >------------------------   04.75 %
-Properties        28 hrs 33 mins  >------------------------   04.38 %
-Gherkin           9 hrs 14 mins   -------------------------   01.42 %
-Scala             7 hrs 32 mins   -------------------------   01.16 %
-Markdown          5 hrs 21 mins   -------------------------   00.82 %
-textmate          4 hrs 55 mins   -------------------------   00.75 %
-Java Properties   4 hrs 4 mins    -------------------------   00.62 %
-Bash              3 hrs 50 mins   -------------------------   00.59 %
+Java              505 hrs 39 mins >>>>>>>>>>>>>>>>>>>------   76.13 %
+Groovy            43 hrs 31 mins  >>-----------------------   06.55 %
+Gradle            31 hrs 31 mins  >------------------------   04.75 %
+Properties        28 hrs 33 mins  >------------------------   04.30 %
+Gherkin           10 hrs 5 mins   -------------------------   01.52 %
+Scala             7 hrs 45 mins   -------------------------   01.17 %
+Markdown          5 hrs 21 mins   -------------------------   00.81 %
+textmate          5 hrs 10 mins   -------------------------   00.78 %
+Java Properties   4 hrs 9 mins    -------------------------   00.63 %
+Bash              3 hrs 50 mins   -------------------------   00.58 %
 ```
 
 <!--END_SECTION:waka--> 
