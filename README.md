@@ -27,19 +27,19 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 September 2022 - To: 01 September 2025
+From: 18 September 2022 - To: 02 September 2025
 
-Total Time: 715 hrs 40 mins
+Total Time: 720 hrs 35 mins
 
-Java              530 hrs 8 mins  >>>>>>>>>>>>>>>>>>>------   74.07 %
-Groovy            43 hrs 31 mins  >>-----------------------   06.08 %
-Gradle            31 hrs 31 mins  >------------------------   04.41 %
-Properties        28 hrs 33 mins  >------------------------   03.99 %
-JavaScript        18 hrs 56 mins  >------------------------   02.65 %
-Gherkin           10 hrs 5 mins   -------------------------   01.41 %
+Java              531 hrs 43 mins >>>>>>>>>>>>>>>>>>-------   73.79 %
+Groovy            43 hrs 31 mins  >>-----------------------   06.04 %
+Gradle            31 hrs 31 mins  >------------------------   04.38 %
+Properties        28 hrs 33 mins  >------------------------   03.96 %
+JavaScript        21 hrs 59 mins  >------------------------   03.05 %
+Gherkin           10 hrs 5 mins   -------------------------   01.40 %
 Scala             7 hrs 45 mins   -------------------------   01.08 %
-YAML              5 hrs 27 mins   -------------------------   00.76 %
-Markdown          5 hrs 24 mins   -------------------------   00.76 %
+YAML              5 hrs 45 mins   -------------------------   00.80 %
+Markdown          5 hrs 24 mins   -------------------------   00.75 %
 Bash              5 hrs 19 mins   -------------------------   00.74 %
 ```
 
