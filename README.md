@@ -10,7 +10,7 @@ Here are some ideas to get you started:
   <img src="https://avatars.githubusercontent.com/u/22571171?s=160" width="120" alt="Utkarsh Agrawal" style="border-radius:50%" />
 </p>
 <h1 align="center">Utkarsh Agrawal</h1>
-<p align="center">🌱 Software Engineer, Nasdaq</p>
+<p align="center">🌱 Specialist Software Engineer, Nasdaq</p>
 <p align="center">
   <a href="https://github.com/CoderUtk"><img src="https://img.shields.io/badge/GitHub-CoderUtk-181717?logo=github" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/utkarsh08/"><img src="https://img.shields.io/badge/LinkedIn-utkarsh08-0A66C2?logo=linkedin" alt="LinkedIn" /></a>
@@ -34,7 +34,8 @@ Here are some ideas to get you started:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CoderUtk&theme=default" alt="Top Langs" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CoderUtk" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CoderUtk&theme=default" alt="Most committed languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CoderUtk&theme=default" alt="Productive time of day" />
 </p>
 
 
